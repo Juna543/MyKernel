@@ -1,0 +1,7 @@
+{
+  "name": "hello-code-os",
+  "version": "0.1.0",
+  "package": "Code",
+  "description": "Minimal example OS Instance built on the Code package.",
+  "source": "examples/hello-code-os"
+}

@@ -1,0 +1,6 @@
+Hello from hello-code-os!
+
+This is a minimal example OS Instance built on the Code package. Real
+Code-oriented projects would place build/dev-tooling-related content
+here instead of a plain text file — see
+src/mykernel/packages/code/code.py for the package's extra commands.

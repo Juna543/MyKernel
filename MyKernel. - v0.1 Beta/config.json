@@ -1,0 +1,14 @@
+{
+  "kernel_version": "0.1.0-beta",
+  "owner": "JustIT",
+  "isolation": {
+    "default_cpu_limit": null,
+    "default_memory_limit": null
+  },
+  "packages": {
+    "enabled": ["Work", "Code", "Home"]
+  },
+  "logging": {
+    "level": "info"
+  }
+}
