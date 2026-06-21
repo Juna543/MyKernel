@@ -1,0 +1,7 @@
+{
+  "name": "hello-home-os",
+  "version": "0.1.0",
+  "package": "Home",
+  "description": "Minimal example OS Instance built on the Home package.",
+  "source": "examples/hello-home-os"
+}

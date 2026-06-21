@@ -1,0 +1,6 @@
+Hello from hello-work-os!
+
+This is a minimal example OS Instance built on the Work package. Real
+Work-oriented projects would place productivity/document-related
+content here instead of a plain text file — see
+src/mykernel/packages/work/work.py for the package's extra commands.

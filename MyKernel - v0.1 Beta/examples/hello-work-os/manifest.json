@@ -1,0 +1,7 @@
+{
+  "name": "hello-work-os",
+  "version": "0.1.0",
+  "package": "Work",
+  "description": "Minimal example OS Instance built on the Work package.",
+  "source": "examples/hello-work-os"
+}

@@ -1,0 +1,9 @@
+Hello from hello-home-os!
+
+This is a minimal example OS Instance built on the Home package. It
+demonstrates the simplest possible payload_src/ content: a single text
+file that gets packed, encrypted, and sealed into a .justmko by
+mk_bmd.build("examples/hello-home-os").
+
+See Documentation/01-overview.md for the full concept walkthrough and
+BUILD.md section 6 for how to build and run this example end-to-end.
